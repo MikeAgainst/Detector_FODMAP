@@ -4,6 +4,15 @@
 
 Está pensada para facilitar la consulta de alimentos y ayudar a interpretar las etiquetas de productos envasados mediante un buscador, fichas informativas y un lector de códigos de barras.
 
+## 📱 Capturas de pantalla
+
+<p align="center">
+  <img src="docs/screenshots/Portada.jpeg" alt="Portada de Detector FODMAP" width="250">
+  <img src="docs/screenshots/Ejemplo%20escaner.jpeg" alt="Ejemplo del escáner de productos" width="250">
+</p>
+
+
+
 ## Funcionalidades
 
 ### 🔎 Búsqueda de alimentos
@@ -74,5 +83,15 @@ La información de los alimentos se mantiene en un archivo JSON local, mientras 
 ## Aviso
 
 Detector FODMAP es una herramienta informativa. No diagnostica intolerancias ni sustituye las indicaciones de un profesional sanitario.
+
+## Historial de versiones
+
+### v1.2 (versión actual)
+- Mejoras en la lectura y detección de ingredientes.
+- Corrección de errores en el análisis de productos.
+
+### v1.1
+- Incorporación del escáner de códigos de barras.
+- Consulta de productos mediante Open Food Facts.
 
 
