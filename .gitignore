@@ -1,0 +1,15 @@
+.gradle/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
+
+# Firma del release: nunca subir al repositorio
+keystore.properties
+keystore/
+*.jks
+*.keystore
+dist/

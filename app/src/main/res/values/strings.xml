@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Detector FODMAP</string>
+
+    <string name="home_title">¿Es FODMAP?</string>
+    <string name="home_subtitle">Escribe un alimento y te decimos si es bajo, moderado o alto en FODMAP.</string>
+
+    <string name="search_hint">Busca un alimento</string>
+    <string name="count_all">%1$d alimentos en la tabla</string>
+    <string name="count_results">%1$d resultados para «%2$s»</string>
+
+    <string name="empty_title">Sin resultados</string>
+    <string name="empty_body">No hemos encontrado «%1$s». Prueba con otro nombre: aceptamos errores leves, como «Aguaxate» → Aguacate.</string>
+    <string name="empty_icon">🍽️</string>
+
+    <string name="level_low">Bajo</string>
+    <string name="level_moderate">Moderado</string>
+    <string name="level_high">Alto</string>
+    <string name="level_low_long">Bajo en FODMAP</string>
+    <string name="level_moderate_long">Moderado en FODMAP</string>
+    <string name="level_high_long">Alto en FODMAP</string>
+
+    <string name="detail_portion">Ración orientativa</string>
+    <string name="detail_fodmaps">FODMAPs presentes</string>
+    <string name="detail_no_fodmaps">Sin FODMAPs relevantes en esta ración</string>
+    <string name="detail_note">Nota</string>
+    <string name="detail_source">Las fotos proceden de Wikipedia. La clasificación es orientativa y depende de la ración y de la persona.</string>
+    <string name="detail_no_note">Sin observaciones adicionales.</string>
+
+    <string name="disclaimer">Información orientativa basada en fuentes públicas. No sustituye el consejo de un dietista-nutricionista.</string>
+
+    <string name="cd_back">Volver</string>
+    <string name="cd_food_image">Imagen del alimento</string>
+
+    <string name="scan_button">Escanear código de barras</string>
+    <string name="scan_hint">Apunta al código de barras del producto</string>
+    <string name="scan_permission_title">Permiso de cámara</string>
+    <string name="scan_permission_message">Necesitamos la cámara para leer el código de barras. La imagen no se guarda ni se envía.</string>
+    <string name="scan_permission_ok">Entendido</string>
+    <string name="cd_flash">Linterna</string>
+
+    <string name="product_loading">Buscando el producto…</string>
+    <string name="product_not_found_title">Producto no encontrado</string>
+    <string name="product_not_found_body">El código %1$s no está en Open Food Facts. Puede ser un producto local o que aún no esté registrado.</string>
+    <string name="product_error_title">Sin conexión</string>
+    <string name="product_error_body">No se pudo consultar Open Food Facts. Comprueba tu conexión e inténtalo de nuevo.</string>
+    <string name="product_retry">Reintentar</string>
+    <string name="product_search_manual">Buscar por nombre</string>
+    <string name="product_result_title">Resultado FODMAP</string>
+    <string name="product_match_note">Coincidencia por el nombre del producto. Comprueba los ingredientes y la ración antes de fiarte.</string>
+    <string name="product_no_match">No hemos identificado este producto en la tabla FODMAP. Busca su ingrediente principal por nombre.</string>
+    <string name="product_view_detail">Ver ficha completa</string>
+    <string name="product_brand_unknown">Marca no indicada</string>
+    <string name="product_barcode_label">Código: %1$s</string>
+    <string name="product_image_cd">Imagen del producto</string>
+    <string name="product_source">Datos e imagen del producto: Open Food Facts (CC BY-SA). Clasificación orientativa, no consejo médico.</string>
+    <string name="product_placeholder">🏷️</string>
+
+    <string name="product_ingredients_title">Ingredientes de la etiqueta</string>
+    <string name="product_ingredients_high_one">Contiene %1$s, que es alto en FODMAP.</string>
+    <string name="product_ingredients_high_many">Contiene %1$s, que son altos en FODMAP.</string>
+    <string name="product_ingredients_moderate_one">Contiene %1$s, que es moderado en FODMAP.</string>
+    <string name="product_ingredients_moderate_many">Contiene %1$s, que son moderados en FODMAP.</string>
+    <string name="product_ingredients_none">Ningún ingrediente de la etiqueta es alto en FODMAP.</string>
+    <string name="product_no_alerts">Sin alertas</string>
+    <string name="product_base_food">Alimento base: %1$s</string>
+    <string name="product_ingredient_matched">En la etiqueta: «%1$s»</string>
+    <string name="product_ingredients_note">Análisis automático de la lista de ingredientes. La cantidad importa: si el ingrediente aparece al final, suele ser poca. Comprueba la etiqueta y la ración.</string>
+    <string name="product_ingredients_missing">Este producto no tiene la lista de ingredientes en Open Food Facts, así que solo podemos usar el nombre.</string>
+</resources>
