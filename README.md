@@ -64,10 +64,6 @@ Está pensada para facilitar la consulta de alimentos y ayudar a interpretar las
 
 ## Descargar
 
-**Versión:** 1.2
-
-## Descargar
-
 **Versión actual: v1.2**
 
 [Descargar Detector FODMAP para Android](https://github.com/MikeAgainst/Detector_FODMAP/releases/latest)
