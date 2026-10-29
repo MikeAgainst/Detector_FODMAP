@@ -57,7 +57,13 @@ Está pensada para facilitar la consulta de alimentos y ayudar a interpretar las
 
 **Versión:** 1.2
 
-Consulta la sección **Releases** de este repositorio para descargar el APK de la aplicación, cuando esté publicado.
+## Descargar
+
+**Versión actual: v1.2**
+
+[Descargar Detector FODMAP para Android](https://github.com/MikeAgainst/Detector_FODMAP/releases/latest)
+
+Descarga el APK e instálalo en tu dispositivo Android.
 
 ## Proyecto
 
@@ -68,3 +74,5 @@ La información de los alimentos se mantiene en un archivo JSON local, mientras 
 ## Aviso
 
 Detector FODMAP es una herramienta informativa. No diagnostica intolerancias ni sustituye las indicaciones de un profesional sanitario.
+
+
